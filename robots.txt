@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://platoswallet.com/sitemap.xml
+
+# Plato's Wallet - Payment Processing + Free Marketing
+# Contact: peter@gullstack.com
